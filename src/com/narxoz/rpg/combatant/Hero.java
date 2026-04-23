@@ -2,6 +2,7 @@ package com.narxoz.rpg.combatant;
 
 import com.narxoz.rpg.state.HeroState;
 import com.narxoz.rpg.state.NormalState;
+import com.narxoz.rpg.state.*;;;
 
 /**
  * Represents a player-controlled hero participating in the tower climb.
